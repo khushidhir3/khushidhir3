@@ -59,38 +59,6 @@ I am a Computer Science student, currently pursuing my bachelor's degree and exp
 
 <br>
 
-<!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;*GitHub Stats*
-
-<p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=khushidhir3&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats"/>
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushidhir3&theme=radical&langs_count=8&layout=compact" alt="Top Languages"/>
-</td>
-</tr>
-</table>
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khushidhir3&theme=radical&row=1&column=3" alt="GitHub Trophies"/>
-</p>
-
-
-<br>
-
-<!-- Visitor Counter -->
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30">
-    <img alt="visitor counter" src="https://profile-counter.glitch.me/KhushiDhir/count.svg"/>
-    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30">
-</div>
-<br>
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Thank You Section -->
@@ -99,18 +67,3 @@ I am a Computer Science student, currently pursuing my bachelor's degree and exp
         <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=5000&pause=500&color=0D47A1&width=435&lines=Thank+You+for+visiting+my+GitHub%21;Stay+Curious%2C+Keep+Coding%21" alt="Thank You Message"/>
     </a>
 </p>
-
-<!--
-**khushidhir3/khushidhir3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
