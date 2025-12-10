@@ -1,18 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=740001&height=120&section=header" alt="header"/>
-
 <div align="center">
-  
-```
-    _____________________________________________________
-   |  _________________________________________________  |
-   | |                                                 | |
-   | |    ⚡ MARAUDER'S MAP OF CODE ⚡                | |
-   | |                                                 | |
-   | |    I solemnly swear that I am up to no good    | |
-   | |_________________________________________________| |
-   |_____________________________________________________|
-```
-
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4000&pause=500&color=740001&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Khushi+Dhir!;Aspiring+Web+Witch+%F0%9F%AA%84;Welcome+to+My+Magical+Repository!;10+Points+to+Gryffindor+%E2%9A%A1" alt="Typing SVG" />
 </a>
@@ -76,16 +63,6 @@ Greetings, fellow magical beings! I'm **Khushi Dhir**, a Computer Science studen
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 <br clear="right"/>
-
----
-
-## 🏰 Hogwarts House Points & Statistics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushidhir3&theme=radical&hide_border=true&background=0D1117&ring=740001&fire=740001&currStreakLabel=D3A625&sideLabels=FFFFFF)
-
-
 </div>
 
 ---
